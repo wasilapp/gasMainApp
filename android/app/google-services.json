@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "677303892936",
+    "project_id": "wasilapp-e7679",
+    "storage_bucket": "wasilapp-e7679.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677303892936:android:1a3b433607bed80ce01efd",
+        "android_client_info": {
+          "package_name": "com.hanin.gas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677303892936-5v31b7h1qa2cc8ms842nvfodgslpgep3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACLZ-qThwz-PcpoSNa7TBmGOsDDN8eaMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677303892936-5v31b7h1qa2cc8ms842nvfodgslpgep3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "677303892936-j2v4k8ppq0465cp33jvcs44g44jto88n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hanin.gas"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677303892936:android:a716817213d66711e01efd",
+        "android_client_info": {
+          "package_name": "com.hanin.gas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677303892936-5v31b7h1qa2cc8ms842nvfodgslpgep3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACLZ-qThwz-PcpoSNa7TBmGOsDDN8eaMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677303892936-5v31b7h1qa2cc8ms842nvfodgslpgep3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "677303892936-j2v4k8ppq0465cp33jvcs44g44jto88n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hanin.gas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
